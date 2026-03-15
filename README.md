@@ -45,7 +45,7 @@
 
 ## 👤 About me
 
-Olá! I'm **Gerfersom**, 18 years old, developer in constant evolution from the interior of **Paraíba, Brazil** 🇧🇷 — proving you don't need a capital city to code with quality.
+Hellou! I'm **Gerfersom**, 18 years old, developer in constant evolution from the interior of **Paraíba, Brazil** 🇧🇷 — proving you don't need a capital city to code with quality.
 
 I'm building my journey in software development in a **self-taught** way, combining practical studies, real projects and a lot of determination. I believe every bug fixed is a level cleared — just like in Mario 🍄
 
