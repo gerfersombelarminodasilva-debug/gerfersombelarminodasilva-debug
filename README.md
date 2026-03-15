@@ -45,7 +45,7 @@
 
 ## 👤 About me
 
-Hellou! I'm **Gerfersom**, 18 years old, developer in constant evolution from the interior of **Paraíba, Brazil** 🇧🇷 — proving you don't need a capital city to code with quality.
+Olá! I'm **Gerfersom**, 18 years old, developer in constant evolution from the interior of **Paraíba, Brazil** 🇧🇷 — proving you don't need a capital city to code with quality.
 
 I'm building my journey in software development in a **self-taught** way, combining practical studies, real projects and a lot of determination. I believe every bug fixed is a level cleared — just like in Mario 🍄
 
@@ -136,9 +136,41 @@ I'm building my journey in software development in a **self-taught** way, combin
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff" />
+<table>
+<tr>
+<td align="center">
+
+<!-- MARIO PIXEL ART -->
+<svg width="96" height="96" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;">
+  <rect x="3" y="1" width="7" height="1" fill="#e52222"/><rect x="2" y="2" width="9" height="1" fill="#e52222"/>
+  <rect x="2" y="3" width="3" height="1" fill="#f5a623"/><rect x="5" y="3" width="4" height="1" fill="#f5a623"/><rect x="9" y="3" width="2" height="1" fill="#f5a623"/>
+  <rect x="2" y="4" width="9" height="2" fill="#f5a623"/>
+  <rect x="4" y="4" width="1" height="1" fill="#000"/><rect x="7" y="4" width="1" height="1" fill="#000"/>
+  <rect x="3" y="5" width="2" height="1" fill="#5c3317"/><rect x="6" y="5" width="3" height="1" fill="#5c3317"/>
+  <rect x="2" y="6" width="9" height="1" fill="#e52222"/><rect x="1" y="7" width="11" height="3" fill="#e52222"/>
+  <rect x="5" y="7" width="3" height="1" fill="#ffd700"/>
+  <rect x="2" y="10" width="3" height="3" fill="#1a5fb4"/><rect x="8" y="10" width="3" height="3" fill="#1a5fb4"/><rect x="5" y="11" width="3" height="2" fill="#1a5fb4"/>
+  <rect x="1" y="13" width="4" height="1" fill="#5c3317"/><rect x="8" y="13" width="4" height="1" fill="#5c3317"/>
+  <rect x="0" y="7" width="1" height="2" fill="#f5a623"/><rect x="12" y="7" width="1" height="2" fill="#f5a623"/>
+</svg>
+
+<br/>
+<sub>🍄 <i>It's-a me!</i></sub>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff" />
 
 </div>
 
@@ -262,9 +294,40 @@ Estou construindo minha jornada no desenvolvimento de software de forma **autodi
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff&locale=pt-br" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff&locale=pt-br" />
+<table>
+<tr>
+<td align="center">
+
+<svg width="96" height="96" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;">
+  <rect x="3" y="1" width="7" height="1" fill="#e52222"/><rect x="2" y="2" width="9" height="1" fill="#e52222"/>
+  <rect x="2" y="3" width="3" height="1" fill="#f5a623"/><rect x="5" y="3" width="4" height="1" fill="#f5a623"/><rect x="9" y="3" width="2" height="1" fill="#f5a623"/>
+  <rect x="2" y="4" width="9" height="2" fill="#f5a623"/>
+  <rect x="4" y="4" width="1" height="1" fill="#000"/><rect x="7" y="4" width="1" height="1" fill="#000"/>
+  <rect x="3" y="5" width="2" height="1" fill="#5c3317"/><rect x="6" y="5" width="3" height="1" fill="#5c3317"/>
+  <rect x="2" y="6" width="9" height="1" fill="#e52222"/><rect x="1" y="7" width="11" height="3" fill="#e52222"/>
+  <rect x="5" y="7" width="3" height="1" fill="#ffd700"/>
+  <rect x="2" y="10" width="3" height="3" fill="#1a5fb4"/><rect x="8" y="10" width="3" height="3" fill="#1a5fb4"/><rect x="5" y="11" width="3" height="2" fill="#1a5fb4"/>
+  <rect x="1" y="13" width="4" height="1" fill="#5c3317"/><rect x="8" y="13" width="4" height="1" fill="#5c3317"/>
+  <rect x="0" y="7" width="1" height="2" fill="#f5a623"/><rect x="12" y="7" width="1" height="2" fill="#f5a623"/>
+</svg>
+
+<br/>
+<sub>🍄 <i>It's-a me!</i></sub>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff&locale=pt-br" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff&locale=pt-br" />
 
 </div>
 
