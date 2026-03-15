@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/followers/gerfersomdev?style=flat-square&logo=github&logoColor=white&label=Followers&color=c0392b&labelColor=0d0000" height="32" style="border-radius:50px" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=gerfersomdev&color=c0392b&style=flat-square&label=Profile+Views" height="32" style="border-radius:50px" />
+<img src="https://komarev.com/ghpvc/?username=gerfersombelarminodasilva-debug&color=c0392b&style=flat-square&label=Profile+Views" height="32" style="border-radius:50px" />
 
 </div>
 
@@ -136,14 +136,14 @@ I'm building my journey in software development in a **self-taught** way, combin
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersomdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersomdev&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gerfersomdev&background=0d0000&border=c0392b&ring=ffd700&fire=e74c3c&currStreakLabel=ffd700&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=gerfersombelarminodasilva-debug&background=0d0000&border=c0392b&ring=ffd700&fire=e74c3c&currStreakLabel=ffd700&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 ---
@@ -262,14 +262,14 @@ Estou construindo minha jornada no desenvolvimento de software de forma **autodi
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersomdev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff&locale=pt-br" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=gerfersombelarminodasilva-debug&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0000&border_color=c0392b&title_color=ffd700&icon_color=e74c3c&text_color=ffffff&locale=pt-br" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersomdev&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff&locale=pt-br" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerfersombelarminodasilva-debug&layout=compact&langs_count=7&bg_color=0d0000&border_color=c0392b&title_color=ffd700&text_color=ffffff&locale=pt-br" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gerfersomdev&background=0d0000&border=c0392b&ring=ffd700&fire=e74c3c&currStreakLabel=ffd700&sideLabels=ffffff&dates=ffffff&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=gerfersombelarminodasilva-debug&background=0d0000&border=c0392b&ring=ffd700&fire=e74c3c&currStreakLabel=ffd700&sideLabels=ffffff&dates=ffffff&locale=pt_BR" />
 </div>
 
 ---
