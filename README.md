@@ -3,78 +3,8 @@
 <!-- LANGUAGE SELECTOR -->
 <a href="#english-version">🇺🇸 English</a> &nbsp;|&nbsp; <a href="#versao-portugues">🇧🇷 Português</a>
 
-<!-- BANNER PIXEL ART -->
-<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;">
-  <defs>
-    <style>.r{fill:#ff4444}.y{fill:#ffd700}.w{fill:#ffffff}</style>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#1a0000"/>
-      <stop offset="40%"  stop-color="#3d0000"/>
-      <stop offset="70%"  stop-color="#7a0000"/>
-      <stop offset="100%" stop-color="#ffd700" stop-opacity="0.4"/>
-    </linearGradient>
-  </defs>
-  <rect width="680" height="160" fill="url(#bg)"/>
-  <rect x="20" y="40" width="8" height="8" class="y"/><rect x="28" y="40" width="8" height="8" class="y"/><rect x="36" y="40" width="8" height="8" class="y"/><rect x="44" y="40" width="8" height="8" class="y"/>
-  <rect x="20" y="48" width="8" height="8" class="y"/>
-  <rect x="20" y="56" width="8" height="8" class="y"/>
-  <rect x="20" y="64" width="8" height="8" class="y"/><rect x="36" y="64" width="8" height="8" class="y"/><rect x="44" y="64" width="8" height="8" class="y"/><rect x="44" y="56" width="8" height="8" class="y"/>
-  <rect x="20" y="72" width="8" height="8" class="y"/><rect x="28" y="72" width="8" height="8" class="y"/><rect x="36" y="72" width="8" height="8" class="y"/><rect x="44" y="72" width="8" height="8" class="y"/>
-  <rect x="58" y="40" width="8" height="8" class="w"/><rect x="66" y="40" width="8" height="8" class="w"/><rect x="74" y="40" width="8" height="8" class="w"/><rect x="82" y="40" width="8" height="8" class="w"/>
-  <rect x="58" y="48" width="8" height="8" class="w"/>
-  <rect x="58" y="56" width="8" height="8" class="w"/><rect x="66" y="56" width="8" height="8" class="w"/><rect x="74" y="56" width="8" height="8" class="w"/>
-  <rect x="58" y="64" width="8" height="8" class="w"/>
-  <rect x="58" y="72" width="8" height="8" class="w"/><rect x="66" y="72" width="8" height="8" class="w"/><rect x="74" y="72" width="8" height="8" class="w"/><rect x="82" y="72" width="8" height="8" class="w"/>
-  <rect x="96" y="40" width="8" height="8" class="r"/><rect x="104" y="40" width="8" height="8" class="r"/><rect x="112" y="40" width="8" height="8" class="r"/><rect x="120" y="40" width="8" height="8" class="r"/>
-  <rect x="96" y="48" width="8" height="8" class="r"/><rect x="120" y="48" width="8" height="8" class="r"/>
-  <rect x="96" y="56" width="8" height="8" class="r"/><rect x="104" y="56" width="8" height="8" class="r"/><rect x="112" y="56" width="8" height="8" class="r"/><rect x="120" y="56" width="8" height="8" class="r"/>
-  <rect x="96" y="64" width="8" height="8" class="r"/><rect x="112" y="64" width="8" height="8" class="r"/>
-  <rect x="96" y="72" width="8" height="8" class="r"/><rect x="120" y="72" width="8" height="8" class="r"/>
-  <rect x="134" y="40" width="8" height="8" class="y"/><rect x="142" y="40" width="8" height="8" class="y"/><rect x="150" y="40" width="8" height="8" class="y"/><rect x="158" y="40" width="8" height="8" class="y"/>
-  <rect x="134" y="48" width="8" height="8" class="y"/>
-  <rect x="134" y="56" width="8" height="8" class="y"/><rect x="142" y="56" width="8" height="8" class="y"/><rect x="150" y="56" width="8" height="8" class="y"/>
-  <rect x="134" y="64" width="8" height="8" class="y"/>
-  <rect x="134" y="72" width="8" height="8" class="y"/>
-  <rect x="172" y="40" width="8" height="8" class="w"/><rect x="180" y="40" width="8" height="8" class="w"/><rect x="188" y="40" width="8" height="8" class="w"/><rect x="196" y="40" width="8" height="8" class="w"/>
-  <rect x="172" y="48" width="8" height="8" class="w"/>
-  <rect x="172" y="56" width="8" height="8" class="w"/><rect x="180" y="56" width="8" height="8" class="w"/><rect x="188" y="56" width="8" height="8" class="w"/>
-  <rect x="172" y="64" width="8" height="8" class="w"/>
-  <rect x="172" y="72" width="8" height="8" class="w"/><rect x="180" y="72" width="8" height="8" class="w"/><rect x="188" y="72" width="8" height="8" class="w"/><rect x="196" y="72" width="8" height="8" class="w"/>
-  <rect x="210" y="40" width="8" height="8" class="r"/><rect x="218" y="40" width="8" height="8" class="r"/><rect x="226" y="40" width="8" height="8" class="r"/><rect x="234" y="40" width="8" height="8" class="r"/>
-  <rect x="210" y="48" width="8" height="8" class="r"/><rect x="234" y="48" width="8" height="8" class="r"/>
-  <rect x="210" y="56" width="8" height="8" class="r"/><rect x="218" y="56" width="8" height="8" class="r"/><rect x="226" y="56" width="8" height="8" class="r"/><rect x="234" y="56" width="8" height="8" class="r"/>
-  <rect x="210" y="64" width="8" height="8" class="r"/><rect x="226" y="64" width="8" height="8" class="r"/>
-  <rect x="210" y="72" width="8" height="8" class="r"/><rect x="234" y="72" width="8" height="8" class="r"/>
-  <rect x="248" y="40" width="8" height="8" class="y"/><rect x="256" y="40" width="8" height="8" class="y"/><rect x="264" y="40" width="8" height="8" class="y"/><rect x="272" y="40" width="8" height="8" class="y"/>
-  <rect x="248" y="48" width="8" height="8" class="y"/>
-  <rect x="248" y="56" width="8" height="8" class="y"/><rect x="256" y="56" width="8" height="8" class="y"/><rect x="264" y="56" width="8" height="8" class="y"/><rect x="272" y="56" width="8" height="8" class="y"/>
-  <rect x="272" y="64" width="8" height="8" class="y"/>
-  <rect x="248" y="72" width="8" height="8" class="y"/><rect x="256" y="72" width="8" height="8" class="y"/><rect x="264" y="72" width="8" height="8" class="y"/><rect x="272" y="72" width="8" height="8" class="y"/>
-  <rect x="286" y="40" width="8" height="8" class="w"/><rect x="294" y="40" width="8" height="8" class="w"/><rect x="302" y="40" width="8" height="8" class="w"/><rect x="310" y="40" width="8" height="8" class="w"/>
-  <rect x="286" y="48" width="8" height="8" class="w"/><rect x="310" y="48" width="8" height="8" class="w"/>
-  <rect x="286" y="56" width="8" height="8" class="w"/><rect x="310" y="56" width="8" height="8" class="w"/>
-  <rect x="286" y="64" width="8" height="8" class="w"/><rect x="310" y="64" width="8" height="8" class="w"/>
-  <rect x="286" y="72" width="8" height="8" class="w"/><rect x="294" y="72" width="8" height="8" class="w"/><rect x="302" y="72" width="8" height="8" class="w"/><rect x="310" y="72" width="8" height="8" class="w"/>
-  <rect x="324" y="40" width="8" height="8" class="r"/><rect x="348" y="40" width="8" height="8" class="r"/>
-  <rect x="324" y="48" width="8" height="8" class="r"/><rect x="332" y="48" width="8" height="8" class="r"/><rect x="340" y="48" width="8" height="8" class="r"/><rect x="348" y="48" width="8" height="8" class="r"/>
-  <rect x="324" y="56" width="8" height="8" class="r"/><rect x="332" y="56" width="8" height="8" class="r"/><rect x="340" y="56" width="8" height="8" class="r"/><rect x="348" y="56" width="8" height="8" class="r"/>
-  <rect x="324" y="64" width="8" height="8" class="r"/><rect x="348" y="64" width="8" height="8" class="r"/>
-  <rect x="324" y="72" width="8" height="8" class="r"/><rect x="348" y="72" width="8" height="8" class="r"/>
-  <rect x="580" y="48" width="8" height="8" class="r"/><rect x="588" y="48" width="8" height="8" class="r"/><rect x="596" y="48" width="8" height="8" class="r"/>
-  <rect x="572" y="56" width="8" height="8" class="r"/><rect x="580" y="56" width="8" height="8" class="w"/><rect x="588" y="56" width="8" height="8" class="r"/><rect x="596" y="56" width="8" height="8" class="w"/><rect x="604" y="56" width="8" height="8" class="r"/>
-  <rect x="572" y="64" width="8" height="8" class="r"/><rect x="580" y="64" width="8" height="8" class="r"/><rect x="588" y="64" width="8" height="8" class="r"/><rect x="596" y="64" width="8" height="8" class="r"/><rect x="604" y="64" width="8" height="8" class="r"/>
-  <rect x="580" y="72" width="8" height="8" class="y"/><rect x="588" y="72" width="8" height="8" class="y"/><rect x="596" y="72" width="8" height="8" class="y"/>
-  <rect x="580" y="80" width="8" height="8" class="y"/><rect x="588" y="80" width="8" height="8" class="y"/><rect x="596" y="80" width="8" height="8" class="y"/>
-  <text x="340" y="110" text-anchor="middle" font-family="monospace" font-size="13" fill="#ffd700" letter-spacing="4">SOFTWARE DEVELOPER</text>
-  <rect x="20" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="50" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="80" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="110" y="130" width="24" height="12" fill="#ffd700" rx="2"/><rect x="140" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="170" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="200" y="130" width="24" height="12" fill="#ffd700" rx="2"/><rect x="230" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="260" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="290" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="320" y="130" width="24" height="12" fill="#ffd700" rx="2"/><rect x="350" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="380" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="410" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="440" y="130" width="24" height="12" fill="#ffd700" rx="2"/>
-  <rect x="470" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="500" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="530" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="560" y="130" width="24" height="12" fill="#ffd700" rx="2"/><rect x="590" y="130" width="24" height="12" fill="#c0392b" rx="2"/><rect x="620" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-  <rect x="650" y="130" width="24" height="12" fill="#c0392b" rx="2"/>
-</svg>
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,25:3d0000,50:7a0000,75:c0392b,100:ffd700&height=200&section=header&text=Gerfersom&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer&descSize=22&descAlignY=65&descColor=ffd700&animation=fadeIn" />
 
 <!-- PIXEL ART MARIO -->
 <svg width="96" height="96" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated;margin:8px 0;">
